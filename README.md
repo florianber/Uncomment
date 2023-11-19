@@ -2,7 +2,7 @@
 
 ## How it works
 
-This function allow you to uncomment a python file. It will not damage your code in any way, it will just remove all the comment, and suppress the big vertical spaces in your code if you have some.
+This function allows you to uncomment a python file. It will not damage your code in any way, it will just remove all the comments, and suppress the big vertical spaces in your code if you have some.
 
 ## Advice to use it
 
