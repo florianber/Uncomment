@@ -23,7 +23,10 @@ uncomment(test.txt)
 
 This implementation should create a "new_test.txt" file, and from there you just need to change it into a python file to be able to use it.
 
+```
 your_directory/
 ├── test.txt
 ├── new_test.txt
 └── uncomment.py
+```
+
